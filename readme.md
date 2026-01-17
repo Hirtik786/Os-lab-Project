@@ -72,11 +72,11 @@ The project uses a graphical user interface built with **Tkinter**, allowing dyn
 
 ## Group Members
 
-* **Hirtik Kumar** — GitHub: [https://github.com/Hirtik786](https://github.com/Hirtik786)
-* **Hania Fatima** — GitHub: [https://github.com/username](https://github.com/haniak855-tech)
-* **Sunesh Kumar** — GitHub: 
-* **Mohit Kumar** — GitHub: 
-* **Chanchal** — 
+* **[Hirtik Kumar](https://github.com/Hirtik786)**
+* **[Hania Fatima](https://github.com/haniak855-tech)**
+* **Sunesh Kumar**
+* **Mohit Kumar**
+* **Chanchal**
 
 ## Acknowledgment
 
